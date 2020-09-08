@@ -6,7 +6,7 @@ use github_rs::client::{Executor, Github};
 use serde_json::Value;
 
 /*
-ref: https://developer.github.com/v3/
+ref: https://docs.github.com/en/rest
 ref: https://github.com/github-rs/github-rs
 ref: https://github.com/github-rs/github-rs/blob/master/docs/endpoints.md
 */

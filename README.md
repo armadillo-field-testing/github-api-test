@@ -7,7 +7,7 @@ This modest repo is a place to store API test code while I learn Rust.
 * A functional Rust development environment. See: https://www.rust-lang.org/tools/install .
 * A Github Personal Access Token, stored in an environment variable named 'GITHUB_TOKEN'. See: https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token for more information on these tokens.
 
-For Github REST API docs, see: https://docs.github.com/en/rest
+For Github REST API docs, see: https://docs.github.com/en/rest .
 
 # How to Use
 
@@ -21,7 +21,7 @@ To run, use:
 $ ./target/release/github-api-test
 ```
 
-You should receive a JSON object in return detailing your current API call limits. An error will be returned if something went wrong. Piping the output through a utility like 'jq' can be helpful. See: https://github.com/stedolan/jq .
+You should receive a JSON object in return detailing your current API call limits. An error will be returned if something went wrong.
 
 # Built With
 
