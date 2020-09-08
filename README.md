@@ -1,6 +1,6 @@
 # Github API Tests with Rust
 
-This modest repo is a place to store test code while I learn Rust.
+This modest repo is a place to store API test code while I learn Rust.
 
 ## Prerequisites
 
