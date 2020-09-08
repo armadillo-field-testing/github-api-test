@@ -24,15 +24,14 @@ fn main() {
                 // println!("{}", status);
 
                 if let Some(json) = json {
-                    println!("{}", json);
+                    // println!("{}", json);
+                    println!("{}", serde_json::to_string_pretty(&json).unwrap());
                 }
             },
             Err(e) => println!("{}", e)
         }
-
     } else {
         println!("ERROR: Env var GITHUB_TOKEN not found");
         process::exit(1);
     }
-
 }
