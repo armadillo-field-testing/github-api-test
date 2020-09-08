@@ -4,7 +4,7 @@ This modest repo is a place to store test code while I learn Rust.
 
 ## Prerequisites
 
-* A functioanl Rust development environment. See: https://www.rust-lang.org/tools/install .
+* A functional Rust development environment. See: https://www.rust-lang.org/tools/install .
 * A Github Personal Access Token, stored in an environment variable named 'GITHUB_TOKEN'. See: https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token for more information on these tokens.
 
 For Github REST API docs, see: https://docs.github.com/en/rest
