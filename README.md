@@ -30,7 +30,3 @@ You should receive a JSON object in return detailing your current API call limit
 ## Author
 
 **Rick Pelletier** - [Gannett Co., Inc. (USA Today Network)](https://www.usatoday.com/)
-
-## License
-
-Copyright (C) 2016, Richard Pelletier
