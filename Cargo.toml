@@ -1,0 +1,12 @@
+[package]
+name = "github-api-test"
+version = "0.5.0"
+authors = ["Rick Pelletier <rpelletier@gannett.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "*"
+github-rs = "*"
+serde_json = "*"
